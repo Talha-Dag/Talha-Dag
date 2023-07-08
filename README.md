@@ -21,9 +21,6 @@ Hello! My name is Talha, my last name is Dağ. I am currently in 4rd year of hig
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Talha-Dag&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Talha-Dag&icon=0&color=5)](https://visitcount.itsvg.in)
 
