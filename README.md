@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Talha, my last name is Dağ. I am currently in 4rd year of high school. I started software in middle school and I am still trying to improve myself by continuing.<br>🔭 I’m currently working on HTML,CSS<br>🌱 I’m currently learning JS<br>
+Hello! My name is Talha, my last name is Dağ. I am currently in Marmara üniversity CEIT 1. I started software in middle school and I am still trying to improve myself by continuing.<br>🔭 I’m currently working on HTML,CSS<br>🌱 I’m currently learning JS<br>
 
 
 ## 🌐 Socials:
