@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Talha-Dag/Talha-Dag/blob/output/header.svg" alt="Talha Dağ" />
+  <img src="https://raw.githubusercontent.com/Talha-Dag/Talha-Dag/output/header.svg"/>
 </div>
 
 <br/>
@@ -46,9 +46,8 @@ Marmara Üniversitesi'nde BÖTE okuyorum. Yazılıma ortaokulda başladım, o za
 ## 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-Dag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Dag&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha-Dag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Dag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Talha-Dag&theme=tokyonight&hide_border=true" />
