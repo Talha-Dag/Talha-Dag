@@ -1,0 +1,58 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Talha Dağ — Computer Vision / Robotics / LLM</title>
+  <desc>GitHub profile banner for Talha Dağ</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#040e1a"/>
+      <stop offset="100%" stop-color="#071c2e"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0e7cbc" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0ecba0" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="200" fill="url(#bg2)" rx="12"/>
+  <line x1="0" y1="40" x2="680" y2="40" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="0" y1="80" x2="680" y2="80" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="0" y1="120" x2="680" y2="120" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="0" y1="160" x2="680" y2="160" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="200" y1="0" x2="200" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="300" y1="0" x2="300" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="400" y1="0" x2="400" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="500" y1="0" x2="500" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <line x1="600" y1="0" x2="600" y2="200" stroke="#0e4a6e" stroke-width="0.4" stroke-dasharray="4,12"/>
+  <rect x="0" y="0" width="340" height="200" fill="url(#acc2)" rx="12"/>
+  <rect x="40" y="30" width="2" height="140" fill="#0ecba0" rx="1" opacity="0.8"/>
+  <circle cx="580" cy="170" r="3" fill="none" stroke="#0e7cbc" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="596" cy="145" r="2" fill="none" stroke="#0ecba0" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="612" cy="122" r="4" fill="none" stroke="#0e7cbc" stroke-width="0.8" opacity="0.3"/>
+  <circle cx="628" cy="158" r="2" fill="none" stroke="#0ecba0" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="644" cy="132" r="3" fill="none" stroke="#0e7cbc" stroke-width="0.8" opacity="0.35"/>
+  <circle cx="658" cy="108" r="5" fill="none" stroke="#0ecba0" stroke-width="0.8" opacity="0.25"/>
+  <circle cx="566" cy="138" r="2.5" fill="none" stroke="#0ecba0" stroke-width="0.8" opacity="0.3"/>
+  <text x="56" y="70" font-family="'Courier New', monospace" font-size="12" fill="#0ecba0" font-weight="700">~/</text>
+  <text x="74" y="70" font-family="'Courier New', monospace" font-size="12" fill="#5a8fa8">talha-dag</text>
+  <text x="56" y="114" font-family="'Courier New', monospace" font-size="30" fill="#ffffff" font-weight="700" letter-spacing="1">TALHA DAĞ</text>
+  <rect x="56" y="120" width="200" height="2" fill="#0ecba0" rx="1" opacity="0.9"/>
+  <rect x="56" y="136" width="118" height="20" fill="#0e7cbc" fill-opacity="0.2" rx="3" stroke="#0e7cbc" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="115" y="150" font-family="'Courier New', monospace" font-size="11" fill="#7ecef4" text-anchor="middle">computer vision</text>
+  <rect x="182" y="136" width="78" height="20" fill="#0ecba0" fill-opacity="0.2" rx="3" stroke="#0ecba0" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="221" y="150" font-family="'Courier New', monospace" font-size="11" fill="#5de8c4" text-anchor="middle">robotics</text>
+  <rect x="268" y="136" width="66" height="20" fill="#5b7fa6" fill-opacity="0.2" rx="3" stroke="#5b7fa6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="301" y="150" font-family="'Courier New', monospace" font-size="11" fill="#a8c4e0" text-anchor="middle">llm agents</text>
+  <text x="56" y="178" font-family="'Courier New', monospace" font-size="11" fill="#3a7a6a" letter-spacing="0.3">Marmara University  ·  Istanbul, Turkey</text>
+  <g transform="translate(480, 60)" opacity="0.3">
+    <circle cx="80" cy="40" r="18" fill="none" stroke="#0ecba0" stroke-width="1.0"/>
+    <circle cx="80" cy="40" r="6" fill="#0ecba0" opacity="0.4"/>
+    <circle cx="130" cy="20" r="8" fill="none" stroke="#0e7cbc" stroke-width="0.8"/>
+    <circle cx="130" cy="60" r="8" fill="none" stroke="#0e7cbc" stroke-width="0.8"/>
+    <circle cx="160" cy="40" r="5" fill="none" stroke="#5b7fa6" stroke-width="0.8"/>
+    <line x1="98" y1="33" x2="122" y2="23" stroke="#0ecba0" stroke-width="0.7"/>
+    <line x1="98" y1="47" x2="122" y2="57" stroke="#0ecba0" stroke-width="0.7"/>
+    <line x1="138" y1="20" x2="155" y2="37" stroke="#5b7fa6" stroke-width="0.6" stroke-dasharray="3,3"/>
+    <line x1="138" y1="60" x2="155" y2="43" stroke="#5b7fa6" stroke-width="0.6" stroke-dasharray="3,3"/>
+    <circle cx="40" cy="40" r="5" fill="none" stroke="#5b7fa6" stroke-width="0.8"/>
+    <line x1="45" y1="40" x2="62" y2="40" stroke="#5b7fa6" stroke-width="0.6" stroke-dasharray="3,3"/>
+  </g>
+</svg>
