@@ -1,28 +1,81 @@
-# 💫 About Me:
-Hello! My name is Talha, my last name is Dağ. I am currently in Marmara üniversity CEIT 1. I started software in middle school and I am still trying to improve myself by continuing.<br>🔭 I’m currently working on HTML,CSS<br>🌱 I’m currently learning JS<br>
+<div align="center">
+  <img src="https://github.com/Talha-Dag/Talha-Dag/blob/output/header.svg" alt="Talha Dağ" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/td_6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t.dag6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-da%C4%9F-0337b9263/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Talha-Dag) 
+## hey, ben Talha 👋
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Talha-Dag&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Dag&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Dag&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Marmara Üniversitesi'nde BÖTE okuyorum. Yazılıma ortaokulda başladım, o zamandan beri bırakmadım.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Talha-Dag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+İlgilendiğim alanlar sırasıyla: **bilgisayarlı görü**, **otonom sistemler** ve **çok ajanlı LLM mimarileri**. Bir şeyi gerçek donanımda çalıştırmak ve istediği gibi davranması, kağıt üstündeki her teoriden daha tatmin edici geliyor bana.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Talha-Dag&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🛠️ stack
 
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=Talha-Dag&icon=0&color=5)](https://visitcount.itsvg.in)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 📌 projeler
+
+**DAG JARVIS** — Multi-agent LLM sistemi. LangGraph + CrewAI ile ajan orkestrasyonu, Groq/Gemini/OpenRouter API entegrasyonu, provider fallback mekanizması. 7B model yerel donanımda çalışıyor: Pentium G4560, 8GB RAM, GT 1030. Ses pipeline'ı: Whisper → edge-tts/Piper. Telegram Bot arayüzü, SQLite ile oturumlar arası hafıza.
+
+**Otonom Su Altı Aracı** — Sıfırdan yazılmış bilgisayarlı görü pipeline'ı. OpenCV + NumPy ile nesne takibi, Jetson Orin Nano üzerinde gerçek havuz testi footage'ına karşı ayarlama. VIO ile GPS-bağımsız navigasyon fizibilite çalışması (MPU9250 IMU + Raspberry Pi NoIR).
+
+**GDG Marmara Web Sitesi** — [gdgocmarmara.com](https://gdgocmarmara.com) — React + Tailwind ile sıfırdan yazılmış prodüksiyon sitesi. Bileşen mimarisi, responsive layout, PR review süreçleri.
+
+**BilEser** — Unity (C#) ile yazılmış 2D platform oyunu. Türk edebiyatı quiz mekaniklerini oyun ilerleyişine entegre ettik. TEKNOFEST'e iki kez başvurdu, her ikisinde de KTR aşamasını geçti.
+
+<br/>
+
+## 📊 github stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha-Dag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Dag&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Talha-Dag&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+## 🐍 katkılar
+
+<div align="center">
+  <img src="https://github.com/Talha-Dag/Talha-Dag/blob/output/github-snake-dark.svg" alt="contribution snake" />
+</div>
+
+<br/>
+
+## 📬 iletişim
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-dağ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dagtalha3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Talha-Dag)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Talha-Dag&color=0d1117&style=flat-square&label=profile+views" />
+</div>
